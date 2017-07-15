@@ -1,1 +1,1 @@
-# github_releases_fina_project
+Proyecto para el curso de React JS
